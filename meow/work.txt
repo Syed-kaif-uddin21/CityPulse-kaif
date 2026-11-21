@@ -1,0 +1,62 @@
+ The platform developers trust, now built for agents
+Each agent in its own sandbox, only the tools you approve, policy across your whole org. On the trusted foundation millions of developers already build on.
+
+Agent Infrastructure
+For running agents, safely. At scale.
+Sandboxes
+Let agents run wild – safely. Docker Sandboxes runs AI coding agents in isolated environments on your machine.
+
+Let agents read, write, and run code without risking your machine
+
+Run all your agents in fully isolated environments
+
+No Docker Desktop required, just install and go
+macOS
+$
+brew trust docker/tap && brew install docker/tap/sbx
+Windows
+> winget install Docker.sbx
+Linux (Ubuntu)
+$ curl -fsSL https://get.docker.com | sudo REPO_ONLY=1 sh
+$ sudo apt-get install docker-sbx
+A real boundary
+
+Every agent gets its own microVM with its own kernel. Your files, your secrets, your machine stay yours.
+Why microVMs
+Start on your laptop, finish in the cloud
+
+Sandboxes start up near instantly. Isolation stops costing you speed in the inner loop. Hand long runs to Docker’s cloud. Same sandbox, same CLI.
+Meet Cloud Sandboxes
+Where agents can actually work
+
+A full dev environment, Docker included. Agents build, run, and test like any developer on the team.
+Run agents, safely
+Your rules, enforced.
+
+Set network and filesystem limits per sandbox. Denied domains don’t even resolve.
+Set network policy
+AI Governance
+Say yes to agents – on your own terms. Central policy and audit for every AI agent your developers run.
+
+Roll out agents org-wide without losing sight of them
+
+One policy for every machine, no local overrides
+
+Every policy decision logged and streamed to your SIEM
+Network access
+Enforced where agents run.
+
+Agents act in two ways: running code and calling tools. Docker manages both, so policy always holds at execution.
+How governance works
+One policy, every machine.
+
+Set network and filesystem rules once. They replace local rules on every sandbox in your org.
+Set org policy
+Proof for every decision.
+
+Every allow and deny is logged with who, what and which rule, ready for your SIEM.
+Monitoring and audit
+No bypass with personal accounts.
+
+Require org sign-in through endpoint management, so policy always applies.
+How licensing works
