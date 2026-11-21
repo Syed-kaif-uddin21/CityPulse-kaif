@@ -1,4 +1,4 @@
-# CityPulse-Shafi
+# CityPulse-kaif
 
 A practical, screenshot-based guide to basic Linux command-line operations. This repository covers directory management, file handling, disk usage, permissions, and process monitoring.
 
